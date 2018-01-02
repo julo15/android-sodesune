@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">そうですね</string>
+
+    <string name="intro_text">よろしくおねがいします!\nWhen enabled, whenever any 日本語 text is copied to the clipboard, a notification will show up to let you translate it!</string>
+
+    <string name="notification_channel_default">Default</string>
+    <string name="notification_channel_foreground">Foreground</string>
+
+</resources>
